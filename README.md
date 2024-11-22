@@ -17,9 +17,6 @@ I love learning new technologies and collaborating with others on exciting proje
 ## 🤝 Let's Connect
 - Email: mark.lonicek@seznam.cz
 - My [Portfolio](http://mareklonicek.wz.cz)
-![Linkerd Logo](https://img.shields.io/badge/Linkerd-blue?style=for-the-badge&logo=linkerd&logoColor=white)
+![LinkedIN](https://img.shields.io/badge/Linkerd-blue?style=for-the-badge&logo=linkerd&logoColor=white)
 
-## About Linkerd
-[Linkerd](https://linkerd.io/) is a powerful service mesh that provides observability, reliability, and security to microservices.
 
-Thanks for visiting my profile! Feel free to check out my repositories, and don’t hesitate to reach out if you want to collaborate on something exciting.
