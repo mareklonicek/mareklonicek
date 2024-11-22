@@ -15,9 +15,6 @@ I love learning new technologies and collaborating with others on exciting proje
 - Constantly improving my skills in web development
 
 ## 🤝 Let's Connect
-- [Email]: mark.lonicek@seznam.cz
+- Email: mark.lonicek@seznam.cz
 - My [Portfolio](http://mareklonicek.wz.cz)
-- [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/marek-lon%C3%AD%C4%8Dek-14240730b/))
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/marek-lon%C3%AD%C4%8Dek-14240730b/))
