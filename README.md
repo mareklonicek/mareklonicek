@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Marek Loníček
 
 Welcome to my GitHub profile!
-
 I'm a **Freelance Full-Stack Junior Developer** passionate about software development.
-
 I love learning new technologies and collaborating with others on exciting projects.
 
 ## 🔧 Technologies & Tools I Use
