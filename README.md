@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Marek Loníček
 
-Welcome to my GitHub profile! I'm a Freelance Full-Stack Junior Developer passionate about software development. I love learning new technologies and collaborating with others on exciting projects.
+Welcome to my GitHub profile!
+I'm a **Freelance Full-Stack Junior Developer** passionate about software development.
+I love learning new technologies and collaborating with others on exciting projects.
 
 ## 🔧 Technologies & Tools I Use
 - **Languages**: C#, PHP, JavaScript
@@ -14,6 +16,6 @@ Welcome to my GitHub profile! I'm a Freelance Full-Stack Junior Developer passio
 
 ## 🤝 Let's Connect
 - Email: mark.lonicek@seznam.cz
-- [Portfolio](http://mareklonicek.wz.cz)
+- My [Portfolio](http://mareklonicek.wz.cz)
 
 Thanks for visiting my profile! Feel free to check out my repositories, and don’t hesitate to reach out if you want to collaborate on something exciting.
