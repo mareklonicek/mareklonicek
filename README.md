@@ -11,8 +11,9 @@ I love learning new technologies and collaborating with others on exciting proje
 - **Tools**: Visual Studio Code, Visual Studio, Git
 
 ## 🎓  What I’m Currently Learning
-- Teaching myself advanced PHP, OOP and some design patterns by developing my own custom PHP web framework
-- Constantly improving my skills in web development
+- Teaching myself advanced PHP, OOP, and design patterns by developing a custom PHP web framework.
+- Continuously improving my software development skills by exploring and mastering deeper concepts.
+- Experimenting with various technologies, libraries, and architectures to discover innovative solutions to software challenges.
 
 ## 🤝 Let's Connect
 - Email: mark.lonicek@seznam.cz
