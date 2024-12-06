@@ -9,7 +9,7 @@ I love learning new technologies and collaborating with others on exciting proje
 - **Web Development**: Nette, Laravel, ASP.NET Core, Bootstrap, HTML, CSS, React, Node.js
 - **Databases**: MySQL, MS-SQL, MongoDB
 - **Tools**: Visual Studio Code, Visual Studio, Git
-
+ 
 ## 🎓  What I’m Currently Learning
 - Teaching myself advanced PHP, OOP, and design patterns by developing a custom PHP web framework.
 - Continuously improving my software development skills by exploring and mastering deeper concepts.
