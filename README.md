@@ -7,7 +7,7 @@ Hi, I'm Marek Lonicek 👋
 
 Connect with me:
 
-[![](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marek-lon%C3%AD%C4%8Dek-177474341))
+[![](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/marek-lon%C3%AD%C4%8Dek-177474341)
 
 Languages and Tools:
 Javascript Typescript React.js Next.js Node.js Express.js PHP Nette Laravel MySQL MongoDB SQL 
