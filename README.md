@@ -8,7 +8,6 @@ Hi, I'm Marek Lonicek 👋
 Connect with me:
 
 [![](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/marek-lon%C3%AD%C4%8Dek-177474341)
-[![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/marek-loníček-177474341)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marek-loníček-177474341)
 
 Languages and Tools:
