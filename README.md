@@ -10,6 +10,7 @@ Connect with me:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marek-loníček-177474341)
+[![LinkedIn](https://img.shields.io/badge)
 
 Languages and Tools:
 Javascript | Typescript | React.js | Next.js | Node.js | Express.js | PHP | Nette | Laravel | MySQL | MongoDB | SQL 
