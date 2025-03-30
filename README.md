@@ -9,7 +9,7 @@ Hi, I'm Marek Lonicek 👋
 Connect with me:
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marek-loníček-177474341)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marek-loníček-177474341)
 ![some](https://img.shields.io/badge/some_my_text-red)
 
 Languages and Tools:
