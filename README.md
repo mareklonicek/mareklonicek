@@ -3,6 +3,7 @@ Hi, I'm Marek Lonicek 👋
 
 
 👨‍💻 Full-Stack Web Developer
+
  -> PHP, Nette, JS, TS, React, Node.js
 
 📫 Reach me at mark.lonicek@seznam.cz
