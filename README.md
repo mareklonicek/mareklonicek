@@ -8,6 +8,8 @@ Hi, I'm Marek Lonicek 👋
 
 📫 Reach me at mark.lonicek@seznam.cz
 
+🎨 Personal Website: https://mareklonicek.wz.cz
+
 Connect with me:
 
 
