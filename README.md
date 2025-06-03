@@ -2,9 +2,9 @@ Hi, I'm Marek Lonicek 👋
 
 
 
-👔 Full-Stack Web Developer
+👔 CNC Programmer
 
-💎 PHP, Nette, JS, TS, React, Node.js
+💎 CNC Machining, Turning, EdgeCAM
 
 📫 Reach me at mark.lonicek@seznam.cz
 
